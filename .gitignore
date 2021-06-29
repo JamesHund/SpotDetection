@@ -1,0 +1,12 @@
+*.jpeg
+*.jpg
+*.png
+.idea/
+__pycache__
+tests/
+bin/
+out/
+run_tests.sh
+intellij-java-google-style.xml
+SpotDetection.iml
+Spec
